@@ -1,0 +1,7 @@
+.vscode/
+
+bin/
+obj/
+
+example.txt
+output.txt
